@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAPNOTEDOWNLOAD"
+  short_description: "Download SAP Notes and matched dependencies"
+  default_prompt: "Use $sapnotedownload to download one or more SAP Notes and all prerequisites matching my component and version inputs."
