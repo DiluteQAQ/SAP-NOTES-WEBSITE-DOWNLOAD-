@@ -1,4 +1,4 @@
-# SAPNOTEDOWNLOAD
+# SAP NOTE DOWNLOAD
 
 A Codex skill that downloads one or more SAP Notes from SAP for Me and recursively follows prerequisites matching an exact software component, From version, and To version.
 
